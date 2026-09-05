@@ -1,0 +1,58 @@
+```
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.userprefs
+
+# Dependencies
+packages/
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Environment specific settings
+.vs/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Configuration files that might store secrets
+.app.config
+.web.config
+
+# NuGet Packages
+*.nupkg
+packages.lock.json
+
+# Visual Studio cache/options directory
+.cache/
+
+# Compiled binaries and assemblies
+*.dll
+*.exe
+*.msi
+*.msp
+*.msm
+
+# Debug and Release builds
+Debug/
+Release/
+x64/
+x86/
+build/
+```
